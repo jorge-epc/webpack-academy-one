@@ -1,0 +1,19 @@
+{
+  "name": "webpack-academy-one",
+  "version": "1.0.0",
+  "description": "Webpack Academy: The core concepts",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Jorge Padilla",
+  "license": "MIT",
+  "devDependencies": {
+    "file-loader": "^0.11.2",
+    "webpack": "^3.4.1"
+  }
+}
